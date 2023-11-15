@@ -1,0 +1,56 @@
+---
+title: "bpa_data_cleanup"
+format: html
+editor: visual
+---
+
+## BPA data cleanup
+
+I ran the following code to modify the raw data for analysis.
+
+```{r}
+#compiled flakes
+bpa_flakes_compiled = read.csv("C:/Users/caleb/Desktop/bpa_data/bpa_flakes_raw.csv")
+elongation_2 <- bpa_flakes_compiled$TechLength/bpa_flakes_compiled$MaxTechWidth #creating column for elongation
+flatness_2 <- bpa_flakes_compiled$MaxTechWidth/bpa_flakes_compiled$MidThickness #creating column for flatness
+surface_area_2 <- bpa_flakes_compiled$MaxTechWidth*bpa_flakes_compiled$TechLength #creating column for surace area
+bpa_flakes_compiled_2 <- bpa_flakes_compiled %>%
+  mutate(elongation_2, flatness_2, surface_area_2) #piping elongation, flatness and surface area into dataframe
+form_2 <- bpa_flakes_compiled_2$elongation_2/bpa_flakes_compiled_2$flatness_2 #creating column for form
+bpa_flakes_compiled_3 <- bpa_flakes_compiled_2 %>%
+  mutate(form_2) #piping form column into dataframe
+bpa_flakes_compiled_3$EvidenceBipolarPercussion[bpa_flakes_compiled_3$EvidenceBipolarPercussion == 'Yes'] <- 'Bipolar'
+bpa_flakes_compiled_3$EvidenceBipolarPercussion[bpa_flakes_compiled_3$EvidenceBipolarPercussion == 'No'] <- 'Freehand'
+bpa_flakes_compiled_updated <- subset(bpa_flakes_compiled_3, LithicArtifactClass == 'CompFlake')
+
+
+bpa_retouched_utilized_compiled <- subset(bpa_flakes_compiled_3, LithicArtifactClass == 'RetouchedPiece' |  LithicArtifactClass =='Utilized')
+#all NA or missing RetouchedPieceTypology values are for utilized pieces. 
+bpa_retouched_utilized_compiled$RetouchedPieceTypology[is.na(bpa_retouched_utilized_compiled$RetouchedPieceTypology)] <- 'Utilized'
+bpa_retouched_utilized_compiled$RetouchedPieceTypology[bpa_retouched_utilized_compiled$RetouchedPieceTypology == ''] <- 'Utilized'
+
+
+bpa_flakes_compiled_updated
+bpa_retouched_utilized_compiled
+
+#compiled cores
+bpa_cores_compiled = read.csv("C:/Users/caleb/Desktop/bpa_data/bpa_cores_raw.csv")
+surface_area_cores_2 <- (2*bpa_cores_compiled$MaxLength*bpa_cores_compiled$MaxWidth) + (2*bpa_cores_compiled$MaxWidth*bpa_cores_compiled$MaxThickness) + (2*bpa_cores_compiled$MaxLength*bpa_cores_compiled$MaxThickness)
+SDI_2= bpa_cores_compiled$OverallScarCount/surface_area_cores_2
+bpa_cores_compiled_2 <- bpa_cores_compiled %>%
+  mutate(surface_area_cores_2, SDI_2)
+bpa_cores_compiled_2$EvidenceBipolar[bpa_cores_compiled_2$EvidenceBipolar == 'Yes'] <- 'Bipolar'
+bpa_cores_compiled_2$EvidenceBipolar[bpa_cores_compiled_2$EvidenceBipolar == 'No'] <- 'Freehand'
+bpa_cores_compiled_2$RawMaterial[bpa_cores_compiled_2$RawMaterial == 'Quartz'] <- 'VeinQuartz'
+bpa_cores_compiled_2$RawMaterial[bpa_cores_compiled_2$RawMaterial == 'CrystallineQuartz'] <- 'CrystalQuartz'
+bpa_cores_compiled_updated <- subset(bpa_cores_compiled_2, CoreTypology == 'Core>2flakescars')
+
+bpa_cores_compiled_updated
+
+
+
+#change filepath to working directory for these files. You will use these files in the data analysis code. 
+write.csv(bpa_flakes_compiled_updated,file='C:/Users/caleb/Desktop/bpa_data/bpa_flakes.csv', row.names=FALSE) 
+write.csv(bpa_retouched_utilized_compiled,file='C:/Users/caleb/Desktop/bpa_data/bpa_retouched_utilized.csv', row.names=FALSE) 
+write.csv(bpa_cores_compiled_updated,file='C:/Users/caleb/Desktop/bpa_data/bpa_cores.csv', row.names=FALSE) 
+```

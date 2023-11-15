@@ -1,0 +1,199 @@
+---
+title: "convergence_new_analyses"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(ggsci)
+library(ggrepel)
+library(ggeffects)
+library(nnet)
+library(broom)
+library(knitr)
+library(kableExtra)
+library(MASS)
+library(rstatix)
+library(car)
+library(performance)
+library(ggfortify)
+library(stargazer)
+library(sjPlot)
+library(sjmisc)
+```
+
+
+
+
+
+
+#Load data
+```{r}
+bpa_flakes = read.csv("C:/Users/caleb/Desktop/bpa_data/bpa_flakes.csv")
+bpa_retouched_utilized <- read.csv("C:/Users/caleb/Desktop/bpa_data/bpa_retouched_utilized.csv")
+bpa_cores <- read.csv("C:/Users/caleb/Desktop/bpa_data/bpa_cores.csv")
+
+summary(bpa_flakes)
+#remove entries with mixed provenience
+bpa_flakes <- bpa_flakes[!bpa_flakes$Square %in% c("P13+P14", "P14/Q14"), ]
+bpa_retouched_utilized <- bpa_retouched_utilized[!bpa_retouched_utilized$Square %in% c("P13+P14", "P14/Q14"), ]
+bpa_cores <- bpa_cores[!bpa_cores$Square %in% c("P13+P14", "P14/Q14"), ]
+
+bpa_retouched_utilized
+```
+
+
+# Exploratory Analyses
+
+```{r exploratory}
+table(bpa_flakes$RawMaterial)
+table(bpa_flakes$Square)
+
+##flake form summaries
+summary(bpa_flakes$form_2)
+mean(bpa_flakes$form_2)
+median(bpa_flakes$form_2)
+sd(bpa_flakes$form_2)
+
+#log form distributions per raw material per square
+ggplot(data=bpa_flakes, mapping = aes(x=RawMaterial, y=log(form_2))) +
+  geom_boxplot() +
+  facet_wrap(vars(Square)) +
+  theme(axis.text.x = element_text(angle=90, vjust = 1, hjust=1))
+
+#log mass distributions per raw material per square
+ggplot(data=bpa_flakes, mapping = aes(x=RawMaterial, y=log(Mass))) +
+  geom_boxplot() +
+  facet_wrap(vars(Square)) +
+  theme(axis.text.x = element_text(angle=90, vjust = 1, hjust=1))
+```
+
+## Flakes
+
+```{r flake raw material and reduction method frequencies}
+bpa_flakes %>%
+  group_by(Square) %>%
+  count(RawMaterial) %>%
+  ggplot(aes(x = as.factor(Square), y = n, fill = RawMaterial)) +
+  geom_col(position = "fill", colour="black")+
+  labs(x="Square",y="Proportion")
+
+ggsave("bpa_flakes_rm.png")
+
+bpa_flakes %>%
+  group_by(Square, RawMaterial) %>%
+  count(EvidenceBipolarPercussion) %>%
+  ggplot(aes(x = as.factor(RawMaterial), y = n, fill = EvidenceBipolarPercussion)) +
+  geom_col(position = "fill", colour="black")+
+  labs(x="Raw Material",y="Proportion") +
+  facet_wrap(vars(Square)) +
+  scale_fill_jco()+
+  theme(axis.text.x = element_text(angle=90, vjust = 0, hjust=1))
+
+ggsave("bpa_flakes_bp_fh.png")
+```
+
+
+```{r flake linear models}
+rm_lm = lm(log(form_2) ~ RawMaterial + Square + log(Mass), data=bpa_flakes) # create a linear model with log flake form as an outcome variable and Raw Material, Square, and log mass as predictors.
+
+#summary for rm_lm
+#no  significant effect of Square or log(Mass) on log(form_2)
+summary(rm_lm)
+
+autoplot(rm_lm) #run model diagnostics to test model performance
+#diagnostics show model performs relatively well
+
+tab_model(rm_lm)
+```
+
+## Retouched/Utilized
+
+```{r retouched/utilized tool type and raw material frequencies}
+table(bpa_retouched_utilized$RawMaterial)
+
+bpa_retouched_utilized %>%
+  group_by(Square) %>%
+  count(RetouchedPieceTypology) %>%
+  ggplot(aes(x = as.factor(Square), y = n, fill = RetouchedPieceTypology)) +
+  geom_col(position = "fill", colour="black")+
+  scale_fill_jco()+
+  labs(x="Square",y="Proportion")
+
+ggsave("retouched_utilized_counts.png")
+
+bpa_retouched_utilized %>%
+  group_by(Square) %>%
+  count(RawMaterial) %>%
+  ggplot(aes(x = as.factor(Square), y = n, fill = RawMaterial)) +
+  geom_col(position = "fill", colour="black")+
+  scale_fill_jco()+
+  labs(x="Square",y="Proportion")
+
+ggsave("retouched_utilized_rm_counts.png")
+
+```
+
+
+
+
+## Cores
+
+```{r core type, raw material and reduction method frequencies}
+
+bpa_cores %>%
+  group_by(Square) %>%
+  count(CoreSubTypology) %>%
+  ggplot(aes(x = as.factor(Square), y = n, fill = CoreSubTypology)) +
+  geom_col(position = "fill", colour="black")+
+  scale_fill_jco()+
+  labs(x="Square",y="Proportion")
+
+ggsave("core_counts.png")
+
+bpa_cores %>%
+  group_by(Square) %>%
+  count(RawMaterial) %>%
+  ggplot(aes(x = as.factor(Square), y = n, fill = RawMaterial)) +
+  geom_col(position = "fill", colour="black")+
+  scale_fill_jco()+
+  labs(x="Square",y="Proportion")
+
+ggsave("core_rm_counts.png")
+
+bpa_cores %>%
+  group_by(Square) %>%
+  count(EvidenceBipolar) %>%
+  ggplot(aes(x = as.factor(Square), y = n, fill = EvidenceBipolar)) +
+  geom_col(position = "fill", colour="black")+
+  scale_fill_jco()+
+  labs(x="Square",y="Proportion")
+
+ggsave("core_bp_counts.png")
+```
+
+```{r}
+#average flake length
+av_flake_lengths = aggregate(bpa_flakes$TechLength, list(bpa_flakes$RawMaterial, bpa_flakes$Square), FUN=mean) 
+
+#average core length
+av_core_lengths = aggregate(bpa_cores$MaxLength, list(bpa_cores$RawMaterial, bpa_cores$Square), FUN=mean) 
+
+write.csv(av_flake_lengths,file='C:/Users/caleb/Desktop/bpa_data/av_flake_lengths.csv', row.names=FALSE) 
+write.csv(av_core_lengths,file='C:/Users/caleb/Desktop/bpa_data/av_core_lengths.csv', row.names=FALSE)
+
+```
+
+```{r}
+ARI = read.csv("C:/Users/caleb/Desktop/bpa_data/ARI.csv")
+
+#plot
+ggplot(data=ARI, mapping = aes(x=as.factor(RawMaterial), y=ARI)) +
+  geom_bar(stat="identity") +
+  facet_wrap(vars(Square)) +
+  theme(axis.text.x = element_text(angle = 90, hjust=1, vjust=1))+
+  labs(x="Raw Material", y="ARI")
+ggsave("fig-ARI.png")
+```
+
+

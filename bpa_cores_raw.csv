@@ -1,0 +1,413 @@
+﻿DateOfDataEntry,Square,Member,SubMember,ToolNumber,RawMaterial,OtherRaw MaterialID,CoreTypology,OverallCortexArea,CortexType,CoreArtifactClass,EvidenceBipolar,NumberCoreFaces,WhichIsPlatform,CoreBlankSphericity,IntendedProduct,CoreSubTypology,ConardUnifiedType,BipolarChronology,DegreeOfKnappingAlongCircumference,OverallScarCount,LengthLongestFlakeScar,MaxLength,MaxWidth,MaxThickness,Mass,OtherNotes,Photograph,FeatureName
+21/07/2023,P13,CL,CL4,860,Chalcedony,,Core>2flakescars,0%,,CompCore,Yes,Three,None,Flake,BladeBladelet,Bladeletcore,Bipolar,AfterFH,270-360,5,9.27,10.2,5.98,5.52,0.29,,Yes,GG2
+25/07/2023,O14,CL,CL1,912,CoarseChert,,Core>2flakescars,1-10%,Cobble,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,BladeBladelet,Bladeletcore,Platform,AfterFH,270-360,4,20.85,21.45,12.34,9.22,3.03,,Yes,N/A
+26/07/2023,O14,CL,CL3,933,CoarseChert,,Core>2flakescars,11-40%,Cobble,CompCore,Yes,Four,One,NotSphericalFlat,Flake,Irregularcore,Platform,AfterFH,180-270,4,12.25,31.5,22.92,15.18,11.34,"looks heat treated. possibly silcrete, but uncertain",Yes,N/A
+21/07/2023,P13,CL,CL4,868,CrystalQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,Four,None,SphericalOrCubic,Flake,Radialcore,Platform,AfterFH,270-360,6,8.07,18.41,16.73,8.5,3.28,dome shaped core,Yes,base
+24/07/2023,P13,CL,CL2,884,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,One,SphericalOrCubic,Flake,Radialcore,Platform,AfterFH,270-360,6,6.16,8.58,7.55,4.43,0.24,,Yes,AF4
+21/07/2023,P13,CL,CL3,870,VeinQuartz,,Core>2flakescars,1-10%,Cobble,CompCore,Yes,Two,None,Flake,Flake,Irregularcore,Parallel,AfterFH,90-180,3,9.11,18.69,10.07,3.97,0.73,core-on-flake,No,MOT.ASH
+24/07/2023,P13,CL,CL2,878,Sandstone,,Core>2flakescars,11-40%,Cobble,CoreFrag,Yes,MoreThanFour,None,NotSphericalFlat,Flake,Irregularcore,Platform,AfterFH,180-270,3,22.27,49.87,48.76,22.41,73.78,,Yes,AF4
+24/07/2023,P13,CL,CL3,897,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Two,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,BeforeFH,270-360,3,9.32,9.32,6.11,2.99,0.15,,No,N/A
+24/07/2023,P13,CL,CL2,880,FineChert,,Core>2flakescars,0%,,CompCore,Yes,Two,None,NotSphericalFlat,Flake,CoreReducedPiece,Parallel,BeforeFH,180-270,6,8.76,11.76,11.37,3.59,0.56,core-on-flake,Yes,AF4
+21/07/2023,P13,CL,CL4,866,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,BladeBladelet,Bladeletcore,Bipolar,BeforeFH,270-360,5,8.83,15.2,6.99,6.02,0.91,,Yes,N/A
+24/07/2023,P13+P14,CL,CL3,891,VeinQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,MoreThanFour,One,SphericalOrCubic,BladeBladelet,Bladeletcore,Platform,BeforeFH,270-360,4,17.04,17.41,12.3,14.37,4,"split on one end with bipolar, other removals occur along another platform surface",Yes,Mousehole
+26/07/2023,O14,CL,CL3,932,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,BeforeFH,270-360,3,13.11,13.87,7.83,5.31,0.64,,Yes,MUISGAT
+26/07/2023,O14,CL,CL3,941,VeinQuartz,,Core>2flakescars,1-10%,Outcrop,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,Flake,Irregularcore,Platform,BeforeFH,270-360,5,11.64,12.76,9.16,7.04,1.08,,No,MA
+25/07/2023,O14,CL,CL2,920,Quartzite,,Core>2flakescars,61-90%,Cobble,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,Flake,Irregularcore,Platform,BeforeFH,0-90,4,46.33,110.48,81.02,75.59,1139.6,battered cobble,Yes,MOU
+24/07/2023,P13,CL,CL3,901,CrystalQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,No,Four,One,SphericalOrCubic,Flake,Irregularcore,Platform,indeterminate,90-180,2,9.73,25.54,13.74,15.27,6.32,,Yes,N/A
+26/07/2023,O14,CL,CL3,931,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Two,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,indeterminate,270-360,3,9,9.86,5.73,3.93,0.24,,Yes,MUISGAT
+24/07/2023,P13,CL,CL3,907,FineChert,,Core>2flakescars,0%,,CompCore,No,Four,One,SphericalOrCubic,Flake,Irregularcore,Platform,indeterminate,180-270,4,23.5,23.5,13.75,12.9,4,,Yes,AF5
+21/07/2023,P13,CL,CL3,869,VeinQuartz,,Core>2flakescars,0%,,CompCore,No,Two,None,Flake,Flake,Irregularcore,Parallel,indeterminate,270-360,3,7.74,10.72,10.52,3.09,0.4,core-on-flake,Yes,MOT.ASH
+21/07/2023,P13,CL,CL2,871,VeinQuartz,,Chunks<2flakescars,11-40%,Cobble,,No,,,,Flake,,,indeterminate,,2,15.27,51.36,26.21,21.69,33.71,not heavily worked,Yes,N/A
+24/07/2023,P13,CL,CL3,902,VeinQuartz,,Core>2flakescars,1-10%,Cobble,CompCore,No,MoreThanFour,One,SphericalOrCubic,Flake,Irregularcore,Platform,indeterminate,90-180,2,9.47,11.55,14.61,10.36,2.35,,No,N/A
+24/07/2023,P13,CL,CL3,905,VeinQuartz,,Core>2flakescars,0%,,CompCore,No,Four,None,SphericalOrCubic,Flake,Irregularcore,Inclined,indeterminate,90-180,4,11.93,18.84,12.49,9.82,2.78,,No,AF5
+25/07/2023,O14,CL,CL2,914,VeinQuartz,,Core>2flakescars,1-10%,Cobble,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,Flake,CoreReducedPiece,Platform,indeterminate,180-270,3,19.27,20.64,15.71,13.23,3.6,,No,N/A
+26/07/2023,O14,CL,CL3,926,VeinQuartz,,Core>2flakescars,0%,,CompCore,No,Three,One,SphericalOrCubic,Flake,Irregularcore,Inclined,indeterminate,180-270,4,35,75.02,56.79,29.85,128.7,,Yes,Mousel
+26/07/2023,O14,CL,CL3,939,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,None,SphericalOrCubic,Flake,Irregularcore,Other,indeterminate,270-360,4,15.12,18.29,10.96,10.6,2.7,,No,MA
+26/07/2023,O14,CL,CL3,940,VeinQuartz,,Chunks<2flakescars,41-60%,Outcrop,,Yes,,,,Flake,,,indeterminate,,1,38.76,39.88,18.82,20.85,16.89,could also be crystal quartz,Yes,MA
+26/07/2023,O14,CL,CL3,945,VeinQuartz,,Core>2flakescars,0%,,CompCore,No,Four,One,SphericalOrCubic,Flake,Irregularcore,Platform,indeterminate,180-270,3,22.1,30.45,28.71,20.03,12.37,,Yes,BBG
+25/07/2023,O14,CL,CL1,909,Quartzite,,Core>2flakescars,1-10%,Cobble,CompCore,No,Four,One,SphericalOrCubic,Flake,Radialcore,Platform,indeterminate,270-360,10,41.1,55.06,41.68,25.41,64.63,"raw material uncertain. Likely very fine grain quartzite, possible coarse chert.",Yes,lower
+25/07/2023,O14,CL,CL1,910,Quartzite,Ochre,Core>2flakescars,41-60%,Cobble,CompCore,Yes,MoreThanFour,None,SphericalOrCubic,Flake,Irregularcore,Other,indeterminate,90-180,5,52.98,80.12,75.44,50.9,419.4,possibly ochre,Yes,AF8
+25/07/2023,O14,CL,CL2,921,Quartzite,,Core>2flakescars,61-90%,Cobble,CompCore,No,MoreThanFour,None,NotSphericalFlat,Flake,Irregularcore,Other,indeterminate,180-270,6,40.53,133.89,81.97,48.63,669.3,flaked in opposite directions on both edges,Yes,MOU
+26/07/2023,O14,CL,CL3,943,Quartzite,,Core>2flakescars,11-40%,Cobble,CompCore,No,Four,One,SphericalOrCubic,Flake,Irregularcore,Platform,indeterminate,270-360,5,31.23,61.67,48.97,33.71,94.1,core-on-flake,Yes,BBG
+26/07/2023,O14,CL,CL3,944,Silcrete,,Core>2flakescars,0%,,CompCore,No,Four,One,SphericalOrCubic,Flake,Radialcore,Platform,indeterminate,270-360,6,27.42,41.07,24.05,16.99,14.91,,Yes,BBG
+25/07/2023,O14,CL,CL1,911,Chalcedony,,Core>2flakescars,0%,,CompCore,Yes,Four,One,SphericalOrCubic,BladeBladelet,Bladeletcore,Bipolar,NoFH,270-360,7,12.45,16.25,6.21,6.44,0.89,,Yes,N/A
+24/07/2023,P13,CL,CL2,877,CoarseChert,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,MoreThanFour,None,NotSphericalFlat,Flake,Irregularcore,Bipolar,NoFH,90-180,3,11.28,29.08,16.35,12.27,7.7,,Yes,AF4
+21/07/2023,O14,CL,CL3,857,CrystalQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,Four,One,SphericalOrCubic,BladeBladelet,Bladeletcore,Platform,NoFH,180-270,6,7.95,12.45,10.99,8.57,1.28,,Yes,
+21/07/2023,P13,CL,CL4,861,CrystalQuartz,,Core>2flakescars,1-10%,Outcrop,CompCore,Yes,Four,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,180-270,4,6.75,7.7,7.12,3.86,0.23,,Yes,GGG
+21/07/2023,P13,CL,CL4,864,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,3,7.42,8.67,3.9,3.28,0.1,,Yes,N/A
+21/07/2023,P13,CL,CL4,865,CrystalQuartz,,Chunks<2flakescars,0%,,,No,,,,Flake,,,NoFH,,2,4.57,8.68,5.05,4.65,0.27,,No,N/A
+21/07/2023,P13,CL,CL4,867,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,SphericalOrCubic,Flake,RiceGrainCore,Inclined,NoFH,270-360,4,4.06,6.48,4.1,3.23,0.08,"rice grain core, flake scars all <5mm",Yes,YP
+21/07/2023,P13,CL,CL2,873,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,BladeBladelet,RiceGrainCore,Parallel,NoFH,270-360,4,9.32,9.57,5.06,2.94,0.15,,Yes,N/A
+21/07/2023,P13,CL,CL2,875,CrystalQuartz,,Core>2flakescars,11-40%,Cobble,CompCore,Yes,Two,None,Flake,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,4,8.52,8.87,6.97,3.53,0.2,core-on-flake,Yes,N/A
+21/07/2023,P13,CL,CL2,876,CrystalQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,Two,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Bipolar,NoFH,270-360,3,5.44,8.16,5.47,3.36,0.15,,No,N/A
+24/07/2023,P13,CL,CL2,879,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,5,6.14,11.82,4.45,3.07,0.16,,Yes,AF4
+24/07/2023,P13,CL,CL2,882,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Two,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,3,8.08,8.48,6.57,1.71,0.12,,No,AF4
+24/07/2023,P13,CL,CL2,883,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Two,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,4,9.61,9.86,7.74,3.06,0.25,,Yes,AF4
+24/07/2023,P13,CL,CL2,885,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,SphericalOrCubic,Flake,RiceGrainCore,Bipolar,NoFH,270-360,3,6.41,7.05,4.36,2.91,0.09,,Yes,AF4
+24/07/2023,P13,CL,CL2,886,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,Flake,CoreReducedPiece,Inclined,NoFH,180-270,3,7.05,8.47,4.11,3.02,0.15,,No,AF4
+24/07/2023,P13,CL,CL1,888,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,4,7.43,8.34,3.51,3.25,0.12,,No,N/A
+24/07/2023,P13,CL,CL1,889,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Inclined,NoFH,270-360,5,8.06,8.06,4.03,4.65,0.18,,Yes,N/A
+24/07/2023,P13,CL,CL1,890,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,One,SphericalOrCubic,BladeBladelet,Bladeletcore,Platform,NoFH,270-360,5,9.68,9.94,5.65,4.17,0.37,,Yes,N/A
+24/07/2023,P13,CL,CL3,892,CrystalQuartz,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,Four,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,270-360,3,8.96,20.36,11.19,7.91,2.26,only flaked on one face,No,MOT.ASH
+24/07/2023,P13,CL,CL3,898,CrystalQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,Two,None,NotSphericalFlat,Flake,Irregularcore,Parallel,NoFH,180-270,2,6.23,9.38,5.11,1.81,0.14,,No,N/A
+24/07/2023,P13,CL,CL3,899,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,One,SphericalOrCubic,BladeBladelet,Bladeletcore,Bipolar,NoFH,270-360,4,7.18,7.21,5.37,4.99,0.23,,Yes,N/A
+24/07/2023,P13,CL,CL3,900,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Two,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,3,8.42,8.42,5.1,3.2,0.12,,Yes,N/A
+24/07/2023,P13,CL,CL3,903,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,180-270,3,11.66,11.66,4.69,3.71,0.22,,No,N/A
+24/07/2023,P13,CL,CL3,904,CrystalQuartz,,Core>2flakescars,11-40%,Cobble,CompCore,Yes,Three,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Platform,NoFH,180-270,3,10.76,11.14,5.38,5.06,0.31,,No,N/A
+25/07/2023,O14,CL,CL2,917,CrystalQuartz,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,Two,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Inclined,NoFH,90-180,3,13.08,13.49,7.31,3.75,0.41,,Yes,N/A
+25/07/2023,O14,CL,CL2,918,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,270-360,3,10.5,11.6,4.73,2.93,0.18,,No,N/A
+25/07/2023,O14,CL,CL3,924,CrystalQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,Three,None,NotSphericalFlat,Flake,Irregularcore,Bipolar,NoFH,180-270,3,7.32,15.88,7.68,5.76,1.21,,No,AF21
+26/07/2023,O14,CL,CL3,927,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Bipolar,NoFH,270-360,3,8.02,8.02,6.37,5.97,0.35,,No,Mousel
+26/07/2023,O14,CL,CL3,928,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Platform,NoFH,180-270,3,9.25,9.91,4.24,2.91,0.11,,No,BG
+26/07/2023,O14,CL,CL3,929,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,180-270,4,7.91,7.91,4.2,3.97,0.17,,No,BG
+26/07/2023,O14,CL,CL3,930,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,270-360,3,6.57,9.68,6.12,4.58,0.22,,No,BG
+26/07/2023,O14,CL,CL3,934,CrystalQuartz,,Core>2flakescars,0%,,CompCore,Yes,Two,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,270-360,5,5.08,10.16,6.25,4.51,0.24,,No,Mousehole
+26/07/2023,O14,CL,CL3,935,CrystalQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,Two,None,NotSphericalFlat,Flake,Irregularcore,Bipolar,NoFH,90-180,3,7.62,11.4,7.23,4.96,0.4,,No,Mousehole
+24/07/2023,P13,CL,CL2,881,FineChert,,Core>2flakescars,11-40%,Cobble,CompCore,Yes,Three,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,180-270,3,10.83,12.71,7.53,6.01,0.62,,Yes,AF4
+24/07/2023,P13,CL,CL2,887,FineChert,,Core>2flakescars,0%,,CompCore,Yes,Two,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Bipolar,NoFH,180-270,3,7.77,7.77,6.82,2.66,0.16,,Yes,AF4
+25/07/2023,O14,CL,CL2,916,FineChert,,Core>2flakescars,1-10%,Cobble,CoreFrag,Yes,Four,One,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Parallel,NoFH,180-270,3,20.22,20.22,9.51,6.68,1.79,,Yes,N/A
+26/07/2023,O14,CL,CL3,937,FineChert,,Core>2flakescars,11-40%,Cobble,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,Flake,Irregularcore,Platform,NoFH,90-180,4,17.43,20.74,10.63,13.41,2.78,,Yes,Mousehole
+26/07/2023,O14,CL,CL3,925,HeterogenousChert,,Core>2flakescars,0%,,CompCore,Yes,Four,One,SphericalOrCubic,Flake,Irregularcore,Platform,NoFH,180-270,3,23.61,24.88,19.82,14.27,7.63,,Yes,AF9 U
+21/07/2023,P13,CL,CL4,862,VeinQuartz,,Core>2flakescars,1-10%,Outcrop,CompCore,Yes,Four,Four,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,180-270,3,12.37,13.62,7.35,4.51,0.61,,Yes,GGG
+21/07/2023,P13,CL,CL4,863,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,SphericalOrCubic,BladeBladelet,FlatBladeletCore,Inclined,NoFH,270-360,4,14.66,14.69,5.42,4.21,0.45,,Yes,GGG
+21/07/2023,P13,CL,CL2,872,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,None,SphericalOrCubic,BladeBladelet,Bladeletcore,Bipolar,NoFH,180-270,6,13.58,19.88,13.85,10.96,5.51,,Yes,N/A
+24/07/2023,P13,CL,CL3,893,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,SphericalOrCubic,Flake,Radialcore,Bipolar,NoFH,270-360,4,14.44,14.48,7.47,8.56,1.22,,No,MOT.ASH
+24/07/2023,P13,CL,CL3,894,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Three,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,2,13.25,13.25,6.31,4.55,0.37,,No,MOT.ASH
+24/07/2023,P13,CL,CL3,895,VeinQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,Four,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,180-270,3,14.58,15.51,8.1,6.99,1.01,,No,MOT.ASH
+24/07/2023,P13,CL,CL3,896,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,NotSphericalFlat,Flake,CoreReducedPiece,Bipolar,NoFH,180-270,5,10.48,13.53,8.68,5.36,0.79,recycled bipolar core,Yes,MOT.ASH
+24/07/2023,P13,CL,CL3,906,VeinQuartz,,Core>2flakescars,1-10%,Cobble,CoreFrag,Yes,Four,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,90-180,3,17.44,19.28,8.6,9.82,2.63,,No,AF5
+25/07/2023,O14,CL,CL2,913,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,One,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,180-270,4,26.78,26.79,11.85,15.66,4.28,,No,N/A
+25/07/2023,O14,CL,CL2,915,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,180-270,4,26.57,36.06,30.11,23.71,29.94,,Yes,N/A
+25/07/2023,O14,CL,CL3,923,VeinQuartz,,Core>2flakescars,1-10%,Outcrop,CompCore,Yes,Two,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,90-180,4,8.91,17.04,6.52,7.01,0.93,,No,AF21
+26/07/2023,O14,CL,CL3,936,VeinQuartz,,Core>2flakescars,1-10%,Outcrop,CompCore,Yes,Four,One,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,270-360,5,19.74,25.11,20.34,19.19,9.93,,Yes,Mousehole
+26/07/2023,O14,CL,CL3,938,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,Four,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,180-270,3,12.33,19.72,16.13,15.75,5.36,,No,MA
+26/07/2023,O14,CL,CL3,942,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,BladeBladelet,FlatBladeletCore,Platform,NoFH,270-360,4,16.69,16.71,7.69,7.93,1.06,,Yes,MA
+26/07/2023,O14,CL,CL3,946,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,270-360,6,19.09,22.74,18.07,17.43,7.12,,Yes,BBG
+26/07/2023,O14,CL,CL3,947,VeinQuartz,,Core>2flakescars,0%,,CompCore,Yes,MoreThanFour,One,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,270-360,4,20.82,25.25,12.34,10.56,4.25,,No,BBG
+12.04.15,P14,CL,CL1,505,Silcrete,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,Flake,BladeBladelet,Bladeletcore,Bipolar,AfterFH,90-180,,,26.58,5.32,16.83,2.05,"core trimming flake the exploited on narrow front for a few bladelets, BP scarring",Yes,
+12.04.15,P14,CL,CL1,507,Quartz,,Chunks<2flakescars,11-40%,Cobble,,Yes,,,,Flake,,,,,,,11.49,8.94,6.4,0.7,,No,
+12.04.15,P14,CL,CL1,508,Quartz,,Chunks<2flakescars,11-40%,Outcrop,,Yes,,,,BladeBladelet,,,,,,,14.67,10.15,7.89,1.03,chilled core,No,
+12.04.15,P14,CL,CL1,509,CrystallineQuartz,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,1,None,SphericalOrCubic,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,90-180,,,17.64,13.43,8.86,1.46,nice eg of crystal bp flaking,Yes,
+12.04.15,P14,CL,CL1,510,Quartz,,Chunks<2flakescars,41-60%,Outcrop,,Yes,,,,BladeBladelet,,,,,,,12.8,10.04,9.01,1.12,,No,
+12.04.15,P14,CL,CL1,511,CrystallineQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,12.59,13.3,6.96,1.12,good eg of flake scars following quartz crystal ctructure,Yes,
+12.04.15,P14,CL,CL1,512,Quartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,16.12,6.93,5.28,0.56,,Yes,
+12.04.15,P14,CL,CL1,513,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,1,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,14.09,5.39,4.47,0.4,chilled rice grain,Yes,
+12.04.15,P14,CL,CL1,514,Quartzite,,Core>2flakescars,0%,,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,13.54,6.28,4.06,0.42,,Yes,
+12.08.15,P14,CL,CL1,531,FineChert,,Chunks<2flakescars,11-40%,Outcrop,,No,,,,Indeterminate,,,,,,,12.39,11.57,14.79,2.2,nice section at the back of the chunk for holding during knapping,Yes,
+12.11.15,P14,CL,CL1,605,CoarseChert,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,1,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,20.33,18.92,6.07,2.37,,Yes,
+12.11.15,P14,CL,CL1,606,Chalcedony,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,Indeterminate,CoreReducedPiece,Bipolar,NoFH,270-360,,,14.88,14.7,5.91,1.6,,Yes,
+12.11.15,P14,CL,CL1,607,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,12.96,11.19,3.78,0.63,,No,
+12.04.15,P14,CL,CL1,92,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,12.16,6.01,4.11,0.38,,No,
+12.04.15,P14,CL,CL1,93,FineChert,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,11.28,5.86,4.11,0.27,great chert rice grain,Yes,
+12.04.15,P14,CL,CL1,94,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,10.21,7.46,3.42,0.31,,No,
+12.04.15,P14,CL,CL1,95,Quartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,6,,11.84,4.97,2.41,0.2,chilled core,No,
+12.07.15,P14,CL,CL1,96,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,3,,8.2,3.97,3.47,0.13,,Yes,
+12.07.15,P14,CL,CL1,97,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,7,,5.83,3.42,1.67,0.12,,Yes,
+12.07.15,P14,CL,CL1,98,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,180-270,3,,7.66,3.06,1.84,0.07,,Yes,
+12.07.15,P14,CL,CL1,99,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,4,,8.74,6.22,2.56,0.15,chilled,Yes,
+12.07.15,P14,CL,CL1,100,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,,,9.06,3.62,3.13,0.14,only non flaked are cortical,Yes,
+12.07.15,P14,CL,CL1,101,Chalcedony,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,4,,8.92,4.78,2.96,0.13,,Yes,
+12.07.15,P14,CL,CL1,102,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,7.73,3.31,2.2,0.07,,Yes,
+12.07.15,P14,CL,CL1,103,Quartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,7,,7.56,3.06,2.12,0.06,chilled,No,
+12.07.15,P14,CL,CL1,104,CrystallineQuartz,,Core>2flakescars,41-60%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,9.08,3.33,2.44,0.08,only non flaked is cortical,Yes,
+12.07.15,P14,CL,CL1,105,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,8.9,3.25,1.74,0.07,,Yes,
+12.07.15,P14,CL,CL1,106,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,7,,7.96,3.84,2.52,0.08,chilled,Yes,
+12.07.15,P14,CL,CL1,107,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,4.7,4.35,2.7,0.09,,Yes,
+12.07.15,P14,CL,CL1,108,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,5.73,5.6,2.12,0.07,two directions of bp flaking,Yes,
+12.07.15,P14,CL,CL1,109,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,7.51,4.65,2.88,0.09,,Yes,
+12.07.15,P14,CL,CL1,110,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,6,,9.18,7.7,4.37,0.3,,No,
+12.07.15,P14,CL,CL1,111,Chalcedony,,Core>2flakescars,41-60%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,6,,8.81,6.98,2.66,0.19,non flaked is cortical,Yes,
+12.07.15,P14,CL,CL1,112,Quartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,SphericalOrCubic,,FlatBladeletCore,,NoFH,180-270,6,,11.07,7.1,2.86,0.21,chilled,No,
+12.07.15,P14,CL,CL1,113,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,10.8,8.65,3.53,0.35,hollow base suggestive of resting on a feature during bp,Yes,
+12.07.15,P14,CL,CL1,114,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,6.8,2.49,2.46,0.05,,Yes,
+12.07.15,P14,CL,CL1,115,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,4,,8.64,6.12,2.12,0.1,,No,
+12.07.15,P14,CL,CL1,116,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,7,,9.16,4,3.5,0.19,,No,
+12.07.15,P14,CL,CL1,117,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,7.62,3.86,2.54,0.09,,Yes,
+12.07.15,P14,CL,CL1,118,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,8.68,5.15,3.71,0.14,possile signs of use at distal and lateral edges,Yes,
+12.07.15,P14,CL,CL1,119,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,7,,7.74,4.97,2.09,0.07,chilled,Yes,
+12.07.15,P14,CL,CL1,120,FineChert,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,3,,7.5,5.93,1.9,0.12,great eg of non quartz bp flat core,Yes,
+12.08.15,P14,CL,CL1,155,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,11.87,5.68,4.24,0.37,,Yes,
+12.11.15,P14,CL,CL1,307,Chalcedony,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,11.72,5.86,4.35,0.32,chilled,No,
+12.11.15,P14,CL,CL1,308,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,7,,11.56,5.82,4.75,0.32,,No,
+12.11.15,P14,CL,CL1,309,CrystallineQuartz,,Core>2flakescars,11-40%,,CoreFrag,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,90-180,7,,9.38,4.32,2.43,0.11,chilled,No,
+12.04.15,P14,CL,CL1,506,CrystallineQuartz,,Core>2flakescars,11-40%,Outcrop,CoreFrag,Yes,1,None,NotSphericalFlat,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,17.19,9.88,7.17,0.98,chilled core,Yes,AF11
+12.04.15,P14,CL,CL1,88,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,3,,10.4,5.81,2.18,0.15,,Yes,AF11
+12.04.15,P14,CL,CL1,89,Quartz,,Chunks<2flakescars,11-40%,,,Yes,,,,,,,NoFH,180-270,6,,9.01,5.75,4.25,0.32,,No,AF11
+12.04.15,P14,CL,CL1,90,CrystallineQuartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,0,,8.51,4.98,2,0.16,,Yes,AF11
+12.04.15,P14,CL,CL1,91,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,8.4,6.36,3.52,0.15,,Yes,AF11
+12.07.15,P14/Q14,CL,CL1,515,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,16.16,7.73,5.28,0.75,large rice grain,Yes,AF2
+12.07.15,P14/Q14,CL,CL1,516,Sandstone,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,4,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,21.1,8.95,4.81,1.11,good eg of sandstone with flat bp tech,Yes,AF2
+12.07.15,P14/Q14,CL,CL1,517,FineChert,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,3,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,13.27,7.18,5.5,0.44,good eg of chert and flat bp tech,Yes,AF2
+12.07.15,P14/Q14,CL,CL1,518,FineChert,,Core>2flakescars,0%,Outcrop,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,22.21,5.43,6.19,0.76,good eg of chert and flat bp tech,Yes,AF2
+12.11.15,P14/Q14,CL,CL1,604,FineChert,,Core>2flakescars,0%,,CompCore,Yes,1,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,14.96,13,3.18,0.8,,Yes,AF2
+12.07.15,P14/Q14,CL,CL1,121,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,7.41,4.92,1.79,0.08,,Yes,AF2
+12.07.15,P14/Q14,CL,CL1,122,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,5,,7.62,5.87,2.72,0.11,,Yes,AF2
+12.07.15,P14/Q14,CL,CL1,123,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,6.86,4.5,2.01,0.08,,No,AF2
+12.07.15,P14,CL,CL1,519,FineChert,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,34.12,16.04,8.73,4.78,"shows early stage bp and chert bp, found in chunks bag",Yes,AF7
+12.07.15,P14,CL,CL1,520,CrystallineQuartz,,Core>2flakescars,11-40%,Outcrop,CoreFrag,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,180-270,,,11.06,10.61,4.38,0.54,showing same distal hollow suggestive of resting on object during bp,Yes,AF7
+12.07.15,P14,CL,CL1,124,Quartz,,Core>2flakescars,41-60%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,12.07,5.68,4.35,0.26,non flaked are cortical,No,AF7
+12.07.15,P14,CL,CL1,125,CrystallineQuartz,,Core>2flakescars,41-60%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,13.24,5.37,3.43,0.28,"evidence for bp redirection, plus cortex and bp",Yes,AF7
+12.07.15,P14,CL,CL1,125,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,6.53,3.65,2.44,0.08,,Yes,AF7
+12.07.15,P14,CL,CL1,126,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,5.44,3.65,2.34,0.07,,Yes,AF7
+12.07.15,P14,CL,CL1,127,FineChert,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,9.06,5.59,2.53,0.15,great ccs flat bp core,Yes,AF7
+12.07.15,P14,CL,CL1,128,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,10,,9.53,3.38,2.76,0.1,,No,AF7
+12.07.15,P14,CL,CL1,129,Quartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.88,4.04,2.09,0.11,chilled,No,AF7
+12.07.15,P14,CL,CL1,130,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,4,,8.83,5.69,3.36,0.16,,Yes,AF7
+12.07.15,P14,CL,CL1,131,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,6.12,5.36,2.15,0.07,,Yes,AF7
+12.07.15,P14,CL,CL1,132,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,6.61,3.54,3.33,0.07,chilled,No,AF7
+12.07.15,P14,CL,CL1,133,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,4,,6.28,5.48,2.23,0.09,,No,AF7
+12.07.15,P14,CL,CL1,134,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,8.67,4.29,2.69,0.14,,No,AF7
+12.07.15,P14,CL,CL1,135,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.84,3.74,5.08,0.06,,No,AF7
+12.07.15,P14,CL,CL1,136,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,5.54,4,1.99,0.05,,No,AF7
+12.07.15,P14,CL,CL1,137,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,8.47,2.99,2.65,0.07,signs of use on lateral,Yes,AF7
+12.07.15,P14,CL,CL1,138,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,9.77,6.67,3.2,0.21,,No,AF7
+12.07.15,P14,CL,CL1,139,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,7.16,3.11,2.33,0.04,,Yes,AF7
+12.07.15,P14,CL,CL1,140,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,5,,8.83,6.07,3.47,0.2,,No,AF7
+12.07.15,P14,CL,CL1,141,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,9.55,2.97,2,0.06,,No,AF7
+12.08.15,P14,CL,CL1,154,FineChert,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,8,,13.35,6.64,3.77,0.31,gret ccs rice grain,Yes,AF7
+12.07.15,P14,CL,CL1,521,FineChert,,Chunks<2flakescars,11-40%,Outcrop,,Inde,,,,Flake,,,,,,,46.92,33.22,20.57,22,good eg of large chert chunk abandoned,Yes,lower
+12.07.15,P14,CL,CL1,522,Quartzite,,Chunks<2flakescars,11-40%,Outcrop,,Inde,,,,Flake,,,,,,,33.25,19.7,10.49,7.86,looks cooked,Yes,lower
+12.07.15,P14,CL,CL1,523,Quartz,,Chunks<2flakescars,61-90%,Outcrop,,Yes,,,,Indeterminate,,,,,,,29.55,20.35,11.66,6.65,,No,lower
+12.07.15,P14,CL,CL1,524,Quartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,22.56,9.11,7.02,1.67,large rice grain,Yes,lower
+12.07.15,P14,CL,CL1,525,Quartz,,Core>2flakescars,0%,,CompCore,Yes,4,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,13.02,6.5,5.13,0.65,,Yes,lower
+12.07.15,P14,CL,CL1,526,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,24.07,14.42,6.81,2,,No,lower
+12.07.15,P14,CL,CL1,527,Quartz,,Chunks<2flakescars,11-40%,Outcrop,,Yes,,,,Flake,,,,,,,14.17,8.72,5.23,0.53,,No,lower
+12.07.15,P14,CL,CL1,528,CrystallineQuartz,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,180-270,,,15.8,7.25,3.8,0.38,,No,lower
+12.07.15,P14,CL,CL1,529,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,12.04,5.7,3.8,0.27,,Yes,lower
+12.08.15,P14,CL,CL1,530,FineChert,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,Flake,Irregularcore,Bipolar,NoFH,90-180,,,32.31,21.21,25.83,16.05,"not a very succesfull fh core,face 1=2 axis of platform reduction, neither very successful",Yes,lower
+12.07.15,P14,CL,CL1,142,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,3,,9.34,4.92,2.04,0.11,,Yes,lower
+12.07.15,P14,CL,CL1,143,CrystallineQuartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,7.06,6.64,1.86,0.11,,No,lower
+12.07.15,P14,CL,CL1,144,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,10.19,5.95,3.09,0.2,,No,lower
+12.07.15,P14,CL,CL1,145,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,180-270,7,,9.17,9.07,2.25,0.23,"almost a pe, but clear scars moving over 50 % of face",Yes,lower
+12.07.15,P14,CL,CL1,146,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,9,6.22,1.99,0.12,,No,lower
+12.07.15,P14,CL,CL1,147,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,5,,10.71,8.02,3.3,0.28,,No,lower
+12.07.15,P14,CL,CL1,148,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,5,,8.53,7.43,2.99,0.18,,No,lower
+12.07.15,P14,CL,CL1,149,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,6.5,4.8,2.43,0.08,,Yes,lower
+12.07.15,P14,CL,CL1,150,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,7.19,5.34,1.93,0.08,,Yes,lower
+12.07.15,P14,CL,CL1,151,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,8,,10.51,5.31,3.38,0.19,chilled,Yes,lower
+12.07.15,P14,CL,CL1,152,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,9.26,4.06,1.9,0.08,,Yes,lower
+12.07.15,P14,CL,CL1,153,FineChert,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,7.98,3.9,1.98,0.09,gret ccs rice grain,Yes,lower
+12.08.15,P14,CL,CL2,538,Quartz,,Chunks<2flakescars,41-60%,Outcrop,,Yes,,,,Flake,,,,,,,14.11,9.03,6.46,0.66,,No,
+12.08.15,P14,CL,CL2,539,Quartz,,Chunks<2flakescars,41-60%,Outcrop,,Inde,,,,Flake,,,,,,,12.69,10.27,4.82,0.6,,No,
+12.08.15,P14,CL,CL2,540,Quartz,,Chunks<2flakescars,1-9%,Outcrop,,Yes,,,,Flake,,,,,,,12.3,9.95,6.91,0.7,,No,
+12.08.15,P14,CL,CL2,541,FineChert,,Core>2flakescars,11-40%,Outcrop,CoreFrag,Yes,2,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,180-270,,,18.48,8.37,6.89,1.14,chilled,Yes,
+12.08.15,P14,CL,CL2,542,Chalcedony,,Core>2flakescars,0%,,CoreFrag,Yes,1,None,SphericalOrCubic,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,15.27,13.76,7.17,1.52,chilled,No,
+12.08.15,P14,CL,CL2,543,Quartzite,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,2,None,Flake,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,16.99,10.7,4.64,0.79,only non flaked is cortical,Yes,
+12.08.15,P14,CL,CL2,544,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,270-360,,,15.05,9.96,5.83,0.89,,No,
+12.08.15,P14,CL,CL2,545,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,11.56,8.55,5.28,0.45,,Yes,
+12.08.15,P14,CL,CL2,546,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,10.01,6.51,4.18,0.26,,No,
+12.08.15,P14,CL,CL2,162,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,11.15,3.74,2.08,0.08,splinter like bladelet core,Yes,
+12.08.15,P14,CL,CL2,163,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,180-270,6,,11.78,3.01,2.49,0.12,splinter like bladelet core,Yes,
+12.08.15,P14,CL,CL2,164,Chalcedony,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,9.97,5.18,5.33,0.21,ccs and bp,Yes,
+12.08.15,P14,CL,CL2,165,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,7.68,3.69,2.6,0.09,,No,
+12.08.15,P14,CL,CL2,166,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,0,4.03,2.23,0.09,chilled,No,
+12.08.15,P14,CL,CL2,167,FineChert,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.49,3.78,3.27,0.08,good eg of ccs and bipolar,Yes,
+12.08.15,P14,CL,CL2,168,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.79,4.3,3.34,0.11,,No,
+12.08.15,P14,CL,CL2,169,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,6,,7.51,4.53,2.72,0.1,,No,
+12.08.15,P14,CL,CL2,170,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,10.11,4.11,3.08,0.16,good eg of crystal cortex,Yes,
+12.08.15,P14,CL,CL2,171,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,7.54,4.34,2.94,0.11,,No,
+12.08.15,P14,CL,CL2,172,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,3,,6.93,3.9,2.71,0.07,,No,
+12.08.15,P14,CL,CL2,173,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,8.55,4.09,2.77,0.1,chilled,No,
+12.08.15,P14,CL,CL2,174,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,3,,7.56,3.6,2.86,0.09,,Yes,
+12.08.15,P14,CL,CL2,175,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,7,,8.81,4.66,3.37,0.12,,No,
+12.08.15,P14,CL,CL2,176,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,3,,9.47,4.67,2.1,0.1,Possible evidence for use at tip,Yes,
+12.08.15,P14,CL,CL2,177,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,6.3,3.73,2.28,0.06,,No,
+12.08.15,P14,CL,CL2,178,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,5,,6.31,4.44,2.56,0.06,,No,
+12.08.15,P14,CL,CL2,179,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,4,,7.46,5.44,2.29,0.08,,No,
+12.08.15,P14,CL,CL2,180,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,7.86,6.03,2.5,0.13,,Yes,
+12.08.15,P14,CL,CL2,181,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,8.58,7.63,1.64,0.14,"very flat core, also PE use",Yes,
+12.08.15,P14,CL,CL2,182,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,7.17,7.39,2.17,0.14,,No,
+12.08.15,P14,CL,CL2,183,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,6,,8.49,4.26,2.53,0.07,chilled,No,
+12.08.15,P14,CL,CL2,184,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,7.48,3.28,2.6,0.06,,No,
+12.08.15,P14,CL,CL2,185,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,9.79,4.14,2.54,0.1,,No,
+12.08.15,P14,CL,CL2,186,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,8,,12.13,3.78,2.63,0.15,,No,
+12.08.15,P14,CL,CL2,187,Chalcedony,,Core>2flakescars,1-9%,,CompCore,Inde,,,SphericalOrCubic,,Preparedcore,,indeterminate,270-360,5,,6.53,5.4,2.84,0.11,"possibly a tiny prepared core, but hard to believe, lower surface seems geared to exploiting upper",Yes,
+12.09.15,P14,CL,CL2,204,Chalcedony,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,0,,10.71,5.33,3.4,0.22,,No,
+12.09.15,P14,CL,CL2,205,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,9,,9.05,4.18,3.15,0.13,,No,
+12.09.15,P14,CL,CL2,206,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,8.63,4.73,3.75,0.21,,No,
+12.09.15,P14,CL,CL2,207,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,8.92,4.74,2.35,0.1,,No,
+12.09.15,P14,CL,CL2,208,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,6.76,4.48,1.94,0.09,,Yes,
+12.09.15,P14,CL,CL2,209,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,9.61,5.01,3.35,0.16,,No,
+12.08.15,P14,CL,CL2,547,Sandstone,,Chunks<2flakescars,11-40%,Outcrop,,Yes,,,,Indeterminate,,,,,,,29.43,12.75,14,5.83,,No,AF6
+12.08.15,P14,CL,CL2,548,FineChert,,Chunks<2flakescars,11-40%,Outcrop,,Inde,,,,Flake,,,,,,,21.2,21.39,5.91,2,,No,AF6
+12.08.15,P14,CL,CL2,549,Quartz,,Chunks<2flakescars,61-90%,Outcrop,,Inde,,,,Indeterminate,,,,,,,17.73,13.78,7.35,1.84,,No,AF6
+12.08.15,P14,CL,CL2,550,FineChert,,Core>2flakescars,11-40%,Outcrop,CoreFrag,Inde,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,180-270,,,16.41,7.29,6.75,1.23,only non flaked is cortical,No,AF6
+12.08.15,P14,CL,CL2,551,Quartz,,Core>2flakescars,0%,Outcrop,CoreFrag,Inde,1,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,180-270,,,15.69,6.1,3.77,0.31,chilled,Yes,AF6
+12.08.15,P14,CL,CL2,188,CrystallineQuartz,,Core>2flakescars,41-60%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,7,,7.26,5.29,3.73,0.15,,No,AF6
+12.08.15,P14,CL,CL2,189,HeterogenousChert,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,6,,10.49,7.34,4.79,0.4,,No,AF6
+12.08.15,P14,CL,CL2,190,HeterogenousChert,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,9.53,6.46,4.81,0.33,proximal end,No,AF6
+12.08.15,P14,CL,CL2,191,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,4,,10.25,8.95,5.95,0.45,,No,AF6
+12.08.15,P14,CL,CL2,192,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,6.67,4.21,2.43,0.08,,No,AF6
+12.08.15,P14,CL,CL2,193,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,90-180,7,,7.76,4.23,2.65,0.11,chilled,No,AF6
+12.08.15,P14,CL,CL2,194,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,6.47,2.24,2.42,0.05,mising part of prox or dist,Yes,AF6
+12.08.15,P14,CL,CL2,195,Chalcedony,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,5,,5.69,4.09,2.57,0.09,,No,AF6
+12.11.15,P14,CL,CL2,310,FineChert,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,11.48,7.93,4.34,0.41,,Yes,AF6
+12.11.15,P14,CL,CL2,311,Chalcedony,,Core>2flakescars,41-60%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,180-270,6,,9.03,7.86,2.17,0.2,only non flaked is cortical,Yes,AF6
+12.08.15,P14,CL,CL2,552,FineChert,,Core>2flakescars,0%,,CompCore,Inde,Indeterminate,None,NotSphericalFlat,Flake,CoreReducedPiece,Bipolar,NoFH,270-360,,,19.89,15.09,5.82,1.46,used 1 face option because too complex to count faces on this guy,Yes,AF7
+12.08.15,P14,CL,CL2,553,Sandstone,,Chunks<2flakescars,0%,,,No,,,,Flake,,,,,,,23.38,9.92,9.59,2.38,,No,AF7
+12.08.15,P14,CL,CL2,554,FineChert,,Core>2flakescars,1-9%,Outcrop,CompCore,No,Indeterminate,None,SphericalOrCubic,Flake,CoreReducedPiece,Bipolar,indeterminate,270-360,,,15.34,11.39,10.59,1.69,,No,AF7
+12.08.15,P14,CL,CL2,196,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,9.39,3.81,2.7,0.12,chilled,No,AF7
+12.08.15,P14,CL,CL2,197,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,90-180,5,,5.87,6.1,2.43,0.1,chilled,No,AF7
+12.08.15,P14,CL,CL2,198,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,5,,5.5,5.18,3.06,0.11,,No,AF7
+12.08.15,P14,CL,CL2,199,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.2,3.3,3.51,0.12,,Yes,AF7
+12.08.15,P14,CL,CL2,200,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,5,,6.62,4.98,3.57,0.12,,No,AF7
+12.08.15,P14,CL,CL2,201,Chalcedony,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,4,,8.27,4.58,2.44,0.11,good eg of ccs and bp,Yes,AF7
+12.08.15,P14,CL,CL2,202,CrystallineQuartz,,Core>2flakescars,41-60%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,5,,5.55,4.54,3.08,0.1,,No,AF7
+12.08.15,P14,CL,CL2,203,FineChert,,Chunks<2flakescars,41-60%,,,Yes,,,,,,,NoFH,90-180,5,,7.74,7.34,2.7,0.21,,Yes,AF7
+12.08.15,P14,CL,CL2,532,Sandstone,,Chunks<2flakescars,11-40%,Cobble,,No,,,,Indeterminate,,,,,,,26.33,23.98,13,5.53,possibly a frag from a hammerstone,No,MOU
+12.08.15,P14,CL,CL2,533,Silcrete,,Chunks<2flakescars,1-9%,Outcrop,,Inde,,,,Flake,,,,,,,21.36,26.84,13.23,5.02,,No,MOU
+12.08.15,P14,CL,CL2,534,Sandstone,,Chunks<2flakescars,0%,,,Inde,,,,Indeterminate,,,,,,,19.65,15.5,6.63,1.65,,No,MOU
+12.08.15,P14,CL,CL2,535,Sandstone,,Chunks<2flakescars,11-40%,Cobble,,Inde,,,,Indeterminate,,,,,,,36.52,27.11,25.6,24.26,,No,MOU
+12.08.15,P14,CL,CL2,536,Quartzite,,Core>2flakescars,11-40%,Cobble,CompCore,Inde,2,None,SphericalOrCubic,Indeterminate,CoreReducedPiece,Bipolar,NoFH,270-360,,,21.3,11.8,7.44,1.85,,Yes,MOU
+12.08.15,P14,CL,CL2,537,Quartz,,Core>2flakescars,0%,,CoreFrag,Inde,4,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,14.11,7.05,5.89,0.73,,Yes,MOU
+12.08.15,P14,CL,CL2,156,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,9.89,6.5,2.74,0.2,,Yes,MOU
+12.08.15,P14,CL,CL2,157,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,7.96,3.95,2.49,0.08,,Yes,MOU
+12.08.15,P14,CL,CL2,158,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,indeterminate,270-360,7,,7.41,4.48,3.07,0.12,,Yes,MOU
+12.08.15,P14,CL,CL2,159,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,90-180,7,,6.65,2.93,2.21,0.06,chilled,Yes,MOU
+12.08.15,P14,CL,CL2,160,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,5.13,4.48,2.33,0.05,,Yes,MOU
+12.08.15,P14,CL,CL2,161,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,7.31,7.37,3.55,0.18,,No,MOU
+12.10.15,P14,CL,CL3,576,Chalcedony,,Core>2flakescars,0%,,CoreFrag,Yes,1,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,180-270,,,12.41,5.13,3.64,0.28,chilled,Yes,
+12.10.15,P14,CL,CL3,577,CrystallineQuartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,Indeterminate,None,SphericalOrCubic,Flake,CoreReducedPiece,Bipolar,NoFH,270-360,,,11.52,8.9,3.94,0.39,,No,
+12.10.15,P14,CL,CL3,578,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,3,None,SphericalOrCubic,Flake,CoreReducedPiece,Bipolar,NoFH,270-360,,,13.02,7.59,4.13,0.48,,Yes,
+12.10.15,P14,CL,CL3,579,CrystallineQuartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,Indeterminate,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,11.54,5.34,4.74,0.35,shows signs of damage at tip,Yes,
+12.10.15,P14,CL,CL3,580,Chalcedony,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,Indeterminate,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,13.48,5.42,5.52,0.33,,No,
+12.11.15,P14,CL,CL3,600,Chalcedony,,Core>2flakescars,0%,,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,AfterFH,270-360,,,13.82,9.11,6.51,0.95,face 2 shows a pre FH flaking surface,Yes,
+12.11.15,P14,CL,CL3,601,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,19.89,13.44,7.38,2.08,,No,
+12.10.15,P14,CL,CL3,258,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,10.01,4.71,3.51,0.16,,No,
+12.10.15,P14,CL,CL3,259,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,10.38,4.86,3.48,0.17,,No,
+12.10.15,P14,CL,CL3,260,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,10.77,6.29,3.21,0.2,,No,
+12.10.15,P14,CL,CL3,261,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,6,,5,5.55,2.14,0.09,,No,
+12.10.15,P14,CL,CL3,262,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,9.03,4.12,2.58,0.11,,No,
+12.10.15,P14,CL,CL3,263,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,6,,6.94,4.35,7.16,0.28,,No,
+12.10.15,P14,CL,CL3,264,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,5,,8.58,4.77,2.43,0.1,,No,
+12.10.15,P14,CL,CL3,265,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,90-180,5,,6.95,3.37,2.3,0.06,chilled,No,
+12.10.15,P14,CL,CL3,266,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,7.26,4.21,3.72,0.1,,Yes,
+12.10.15,P14,CL,CL3,267,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,11.21,3.31,2.93,0.18,,No,
+12.10.15,P14,CL,CL3,268,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,10.52,2.52,2.37,0.08,,No,
+12.10.15,P14,CL,CL3,269,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,8.68,4.08,1.73,0.06,,No,
+12.10.15,P14,CL,CL3,270,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,7.34,5.36,2.18,0.09,,No,
+12.10.15,P14,CL,CL3,271,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,3,,7.23,2.55,2.55,0.05,,Yes,
+12.10.15,P14,CL,CL3,272,CrystallineQuartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,90-180,4,,10.04,5.24,2.13,0.16,,No,
+12.11.15,P14,CL,CL3,301,Chalcedony,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,9,,9.13,7.18,5.82,0.43,,Yes,
+12.11.15,P14,CL,CL3,304,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,13.88,4.06,2.94,0.18,,No,
+12.11.15,P14,CL,CL3,305,HeterogenousChert,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,10.18,4.7,4.25,0.18,,No,
+12.10.15,P14,CL,CL3,250,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,0,,12.4,5.95,3.76,0.27,,No,AF5
+12.10.15,P14,CL,CL3,251,Chalcedony,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,11.74,5.47,2.11,0.16,,Yes,AF5
+12.10.15,P14,CL,CL3,252,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,7.62,4.75,3.25,0.14,,No,AF5
+12.10.15,P14,CL,CL3,253,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,8.51,4.08,2.66,0.13,,No,AF5
+12.10.15,P14,CL,CL3,254,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,90-180,5,,7.26,4.85,2.53,0.09,chilled,No,AF5
+12.10.15,P14,CL,CL3,255,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,3,,9.61,6.23,3.68,0.26,,No,AF5
+12.10.15,P14,CL,CL3,256,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,7.07,2.83,2.68,0.05,,No,AF5
+12.10.15,P14,CL,CL3,257,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.9,2.23,1.51,0.04,,No,AF5
+12.10.15,P14,CL,CL3,563,Quartz,,Chunks<2flakescars,11-40%,Outcrop,,No,,,,Indeterminate,,,,,,,16.8,11.2,9.16,0.94,,No,BBG
+12.10.15,P14,CL,CL3,564,Quartz,,Chunks<2flakescars,41-60%,Outcrop,,Yes,,,,Indeterminate,,,,,,,26.84,15.56,20.54,7.47,,No,BBG
+12.10.15,P14,CL,CL3,565,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,11.67,6.47,3.7,0.26,,No,BBG
+12.10.15,P14,CL,CL3,566,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,11.62,5.46,2.93,0.18,,No,BBG
+12.11.15,P14,CL,CL3,591,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,CoreReducedPiece,Bipolar,AfterFH,180-270,,,34.84,24.7,16.38,12.85,shows bp after fh,Yes,BBG
+12.11.15,P14,CL,CL3,592,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,Indeterminate,Indeterminate,SphericalOrCubic,Flake,CoreReducedPiece,Bipolar,NoFH,270-360,,,15.7,11.41,11.52,1.84,,No,BBG
+12.11.15,P14,CL,CL3,593,Quartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,17.54,7.97,6.65,1.03,,No,BBG
+12.11.15,P14,CL,CL3,594,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,14.77,9.08,5.3,0.78,,Yes,BBG
+12.11.15,P14,CL,CL3,595,CrystallineQuartz,,Core>2flakescars,41-60%,Outcrop,CompCore,Yes,Indeterminate,Indeterminate,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,13.41,8.06,6.64,1.03,great eg of early stage crystal bp,Yes,BBG
+12.11.15,P14,CL,CL3,596,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,13.34,10.77,8.04,1.15,,Yes,BBG
+12.11.15,P14,CL,CL3,597,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,Flake,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,16.62,8.47,2.77,0.45,,No,BBG
+12.11.15,P14,CL,CL3,598,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,11.93,7,5.14,0.36,,No,BBG
+12.11.15,P14,CL,CL3,599,CrystallineQuartz,,Chunks<2flakescars,61-90%,Outcrop,,Yes,,,,Flake,,,,,,,18.37,11.83,7.78,2,great eg of early stage crystal bp,Yes,BBG
+12.11.15,P14,CL,CL3,287,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,12.09,4.74,2.95,0.21,,No,BBG
+12.11.15,P14,CL,CL3,288,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,10.53,4.96,3.08,0.18,,No,BBG
+12.11.15,P14,CL,CL3,289,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,12.54,4.32,4.55,0.24,,No,BBG
+12.11.15,P14,CL,CL3,290,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,6.67,7.24,3.2,0.16,,Yes,BBG
+12.11.15,P14,CL,CL3,291,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,9,,10.92,4.96,5.56,0.37,,No,BBG
+12.11.15,P14,CL,CL3,292,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,10.06,4.49,3.08,0.21,,Yes,BBG
+12.11.15,P14,CL,CL3,293,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,8.62,6.26,4.33,0.31,distal tip,No,BBG
+12.11.15,P14,CL,CL3,294,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,6.99,6.27,2.24,0.11,,Yes,BBG
+12.11.15,P14,CL,CL3,295,CrystallineQuartz,,Core>2flakescars,41-60%,,CoreFrag,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,90-180,4,,7.77,4.22,2.66,0.09,chilled,No,BBG
+12.11.15,P14,CL,CL3,296,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,3,,8.67,6.12,3.56,0.15,,No,BBG
+12.11.15,P14,CL,CL3,297,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,90-180,5,,8.21,3.51,2.49,0.07,chilled,No,BBG
+12.11.15,P14,CL,CL3,298,Chalcedony,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,90-180,5,,6.95,3.11,2.47,0.06,chilled,Yes,BBG
+12.11.15,P14,CL,CL3,299,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,3,,7.38,3.37,1.78,0.06,beautiful eg of crystal rice grain,Yes,BBG
+12.11.15,P14,CL,CL3,302,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,7,,14.15,5.45,3.23,0.31,,No,BBG
+12.10.15,P14,CL,CL3,235,CrystallineQuartz,,Chunks<2flakescars,0%,,,Yes,,,,,,,NoFH,90-180,4,,6.95,5.66,3.25,0.13,chilled,No,MA
+12.10.15,P14,CL,CL3,236,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,0,,7,7.31,2.44,0.13,,No,MA
+12.10.15,P14,CL,CL3,237,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,8.42,6.37,4.65,0.2,,No,MA
+12.10.15,P14,CL,CL3,213,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,6,,8.96,5.47,3.32,0.18,,No,BG
+12.10.15,P14,CL,CL3,214,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,10.18,5.16,2.55,0.15,,No,BG
+12.10.15,P14,CL,CL3,215,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,10.1,4.86,3.47,0.15,,No,BG
+12.10.15,P14,CL,CL3,216,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,9.37,4.96,2.47,0.09,,No,BG
+12.10.15,P14,CL,CL3,217,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,7,,9.82,8.27,5.34,0.35,,Yes,BG
+12.10.15,P14,CL,CL3,218,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,8.27,5.41,4.39,0.17,,No,BG
+12.10.15,P14,CL,CL3,219,CrystallineQuartz,,Chunks<2flakescars,61-90%,,,Yes,,,,,,,NoFH,0-90,6,,7.71,5.03,3.58,0.17,nice eg of crystal cortex and bp,Yes,BG
+12.10.15,P14,CL,CL3,220,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,0,,7.25,3.32,2.24,0.05,perfect rice grain,Yes,BG
+12.10.15,P14,CL,CL3,221,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,Radialcore,,indeterminate,270-360,4,,6.03,6.61,1.94,0.08,seems like radial flaking oin one side and bp on the other,Yes,BG
+12.10.15,P14,CL,CL3,222,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,7,,8.19,7.32,3.01,0.17,,No,BG
+12.10.15,P14,CL,CL3,223,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,5,,9.35,5.25,3.74,0.18,,No,BG
+12.10.15,P14,CL,CL3,224,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,9.71,2.56,3.02,0.07,,No,BG
+12.10.15,P14,CL,CL3,225,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,4,,9.82,6.46,3.22,0.25,,No,BG
+12.10.15,P14,CL,CL3,226,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,6.79,3.52,2.03,0.06,,No,BG
+12.10.15,P14,CL,CL3,227,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,8.29,3.03,3.22,0.09,,No,BG
+12.10.15,P14,CL,CL3,228,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,4.3,4.49,3.12,0.06,good eg of fractured distal rice grain tip,Yes,BG
+12.11.15,P14,CL,CL3,300,Chalcedony,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,9,,10.8,9.03,2.8,0.32,,Yes,BG
+12.10.15,P14,CL,CL3,567,Sandstone,,Chunks<2flakescars,11-40%,Outcrop,,Yes,,,,Indeterminate,,,,,,,28.11,20.33,12.32,5.26,,No,BG2
+12.10.15,P14,CL,CL3,568,Quartz,,Chunks<2flakescars,0%,,,No,,,,Flake,,,,,,,16.21,15.84,10.35,2.02,,No,BG2
+12.10.15,P14,CL,CL3,569,Quartz,,Core>2flakescars,0%,,CompCore,No,3,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,12.54,8.53,5.43,0.75,evidence for some kind of holding device at base (hollowed out concavity),Yes,BG2
+12.10.15,P14,CL,CL3,570,CrystallineQuartz,,Core>2flakescars,1-9%,Outcrop,CompCore,No,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,9.77,9.2,2.95,0.38,,Yes,BG2
+12.10.15,P14,CL,CL3,571,Quartz,,Chunks<2flakescars,11-40%,Outcrop,CoreFrag,Yes,,,,BladeBladelet,,,,,,,16.38,5.62,4.18,0.46,chilled,No,BG2
+12.10.15,P14,CL,CL3,238,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,8.05,4.95,3.47,0.15,,No,BG2
+12.10.15,P14,CL,CL3,239,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,8,,5.79,5.44,2.59,0.08,,No,BG2
+12.10.15,P14,CL,CL3,240,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,270-360,4,,8.53,5.04,3.8,0.17,,No,BG2
+12.10.15,P14,CL,CL3,241,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,Irregularcore,,NoFH,270-360,5,,11.07,6.88,6.09,0.45,,No,BG2
+12.10.15,P14,CL,CL3,242,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,8.27,4.48,3.24,0.15,,No,BG2
+12.10.15,P14,CL,CL3,243,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,6.88,7.29,2.5,0.17,,No,BG2
+12.10.15,P14,CL,CL3,244,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,7,,7.05,6.82,1.72,0.08,,No,BG2
+12.10.15,P14,CL,CL3,245,CrystallineQuartz,,Core>2flakescars,1-9%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.28,4.26,2.54,0.11,chilled,No,BG2
+12.10.15,P14,CL,CL3,246,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,4,,7.18,4.85,4.14,0.15,,No,BG2
+12.10.15,P14,CL,CL3,247,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,6.11,5.76,3.04,0.12,,No,BG2
+12.10.15,P14,CL,CL3,248,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,90-180,6,,7.27,3.56,2.92,0.09,,No,BG2
+12.10.15,P14,CL,CL3,249,Chalcedony,,Chunks<2flakescars,41-60%,,,Yes,,,,,,,NoFH,90-180,5,,9.88,5.28,4.32,0.22,,Yes,BG2
+12.11.15,P14,CL,CL3,303,CrystallineQuartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,7,,7.6,7.72,2.34,0.19,,No,BG2
+12.10.15,P14,CL,CL3,562,Quartz,,Chunks<2flakescars,41-60%,Outcrop,,Yes,,,,Indeterminate,,,,,,,13.25,7.28,6.49,0.58,,No,BP
+12.10.15,P14,CL,CL3,572,Silcrete,,Chunks<2flakescars,1-9%,Outcrop,,Yes,,,,Flake,,,,,,,38.19,23.49,9.82,10.22,,No,BP
+12.10.15,P14,CL,CL3,573,CrystallineQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,15.14,7.53,5.03,0.68,,Yes,BP
+12.10.15,P14,CL,CL3,574,Chalcedony,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,Flake,BladeBladelet,CoreReducedPiece,Bipolar,NoFH,180-270,,,22.56,8.97,5.53,1.03,,Yes,BP
+12.10.15,P14,CL,CL3,575,Quartz,,Chunks<2flakescars,11-40%,Outcrop,CompCore,Yes,Indeterminate,None,Flake,Flake,CoreReducedPiece,Bipolar,NoFH,180-270,,,13.98,4.59,3.61,0.26,,No,BP
+12.10.15,P14,CL,CL3,229,FineChert,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,11.69,6.23,3.3,0.27,,Yes,BP
+12.10.15,P14,CL,CL3,230,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,RiceGrainCore,,NoFH,90-180,5,,7.76,3.68,2.17,0.07,chilled,No,BP
+12.10.15,P14,CL,CL3,231,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,90-180,4,,7.24,7.34,2.46,0.17,chilled,No,BP
+12.10.15,P14,CL,CL3,232,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,4,,6.12,4.9,2.81,0.09,,No,BP
+12.10.15,P14,CL,CL3,233,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,8.19,5.19,2.46,0.11,,No,BP
+12.10.15,P14,CL,CL3,234,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,8,,5.31,4.62,2.54,0.05,,Yes,BP
+12.10.15,P14,CL,CL3,581,Quartz,,Core>2flakescars,0%,,CompCore,Yes,Indeterminate,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,19.48,8.73,6.52,0.94,,No,MA
+12.10.15,P14,CL,CL3,582,Quartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,Indeterminate,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,16.5,6.43,5.71,0.47,,No,MA
+12.10.15,P14,CL,CL3,583,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,3,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,15.69,7.27,3.69,0.47,,No,MA
+12.10.15,P14,CL,CL3,584,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,18.66,7.93,5.78,0.64,,No,MA
+12.10.15,P14,CL,CL3,585,Quartz,,Core>2flakescars,0%,,CompCore,Yes,2,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,14.68,12.03,5.75,0.67,,Yes,MA
+12.10.15,P14,CL,CL3,586,Quartz,,Core>2flakescars,0%,,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,13.66,6.07,4.77,0.4,,Yes,MA
+12.10.15,P14,CL,CL3,587,CrystallineQuartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Yes,2,None,SphericalOrCubic,Flake,RiceGrainCore,Bipolar,NoFH,270-360,,,16.24,9.63,6.22,0.92,,No,MA
+12.10.15,P14,CL,CL3,588,Quartz,,Core>2flakescars,0%,,CompCore,Yes,3,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,15.53,5.16,3.47,0.23,,No,MA
+12.10.15,P14,CL,CL3,589,Quartz,,Core>2flakescars,0%,,CoreFrag,Yes,2,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,270-360,,,13.82,4.43,4.64,0.33,chilled,No,MA
+12.10.15,P14,CL,CL3,590,Quartz,,Core>2flakescars,1-9%,Outcrop,CompCore,Yes,4,Four,SphericalOrCubic,BladeBladelet,Irregularcore,Platform,,270-360,,,8.81,7.9,8.62,0.54,tiny fh platform core,Yes,MA
+12.11.15,P14,CL,CL3,602,Quartz,,Core>2flakescars,0%,,CompCore,Yes,3,None,NotSphericalFlat,BladeBladelet,FlatBladeletCore,Bipolar,NoFH,270-360,,,13.6,11.86,5.89,1.35,,Yes,MA
+12.10.15,P14,CL,CL3,273,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,4,,8.42,7.08,2.85,0.25,,No,MA
+12.10.15,P14,CL,CL3,274,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,9.02,4.01,2.42,0.11,,No,MA
+12.10.15,P14,CL,CL3,275,CrystallineQuartz,,Core>2flakescars,41-60%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,180-270,6,,9.81,5.25,2.98,0.16,,No,MA
+12.10.15,P14,CL,CL3,276,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,9.14,5.2,3.57,0.18,,Yes,MA
+12.10.15,P14,CL,CL3,277,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,10.89,7.13,3.99,0.36,,Yes,MA
+12.10.15,P14,CL,CL3,278,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,6,,6.7,5.27,2.51,0.09,,No,MA
+12.10.15,P14,CL,CL3,279,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,4,,6.19,4.49,2.38,0.07,,No,MA
+12.10.15,P14,CL,CL3,280,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,8.44,3.63,4.36,0.13,,No,MA
+12.10.15,P14,CL,CL3,281,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,6,,9.39,10.39,1.85,0.22,,Yes,MA
+12.10.15,P14,CL,CL3,282,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,180-270,7,,10.82,8.05,3.06,0.26,,No,MA
+12.10.15,P14,CL,CL3,283,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,7.68,4.78,3.02,0.1,,No,MA
+12.10.15,P14,CL,CL3,284,CrystallineQuartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,6,,9.28,4.3,4.39,0.25,,Yes,MA
+12.10.15,P14,CL,CL3,285,Quartz,,Core>2flakescars,0%,,CompCore,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,270-360,5,,7.94,3.57,2.02,0.07,,No,MA
+12.10.15,P14,CL,CL3,286,Quartz,,Core>2flakescars,1-9%,,CompCore,Yes,,,SphericalOrCubic,,CoreReducedPiece,,NoFH,270-360,4,,9.07,7.61,5.11,0.28,,No,MA
+12.09.15,P14,CL,CL3,555,Chalcedony,,Chunks<2flakescars,11-40%,Outcrop,,Inde,,,,Indeterminate,,,,,,,17.62,9.32,4.96,0.93,,No,YA
+12.09.15,P14,CL,CL3,556,Quartz,,Chunks<2flakescars,61-90%,Outcrop,,Yes,,,,Indeterminate,,,,,,,13.47,6.9,3.94,0.44,,No,YA
+12.09.15,P14,CL,CL3,557,HeterogenousChert,,Chunks<2flakescars,61-90%,Outcrop,,No,,,,Indeterminate,,,,,,,24.7,14.35,11.21,5.82,,No,YA
+12.09.15,P14,CL,CL3,558,Sandstone,,Chunks<2flakescars,11-40%,Outcrop,,No,,,,Indeterminate,,,,,,,35.47,23.1,14.91,13.94,,No,YA
+12.09.15,P14,CL,CL3,559,Sandstone,,Chunks<2flakescars,0%,,,Inde,,,,Flake,,,,,,,29.67,22.8,11.04,5.51,,No,YA
+12.09.15,P14,CL,CL3,560,Quartz,,Core>2flakescars,11-40%,Outcrop,CompCore,Inde,Indeterminate,None,SphericalOrCubic,Flake,CoreReducedPiece,Bipolar,NoFH,180-270,,,17.39,11.27,9.76,1.76,,No,YA
+12.09.15,P14,CL,CL3,561,Quartz,,Core>2flakescars,0%,,CoreFrag,Inde,1,None,SphericalOrCubic,BladeBladelet,RiceGrainCore,Bipolar,NoFH,90-180,,,16.75,7.37,6.68,0.83,chilled,No,YA
+12.09.15,P14,CL,CL3,210,CrystallineQuartz,,Core>2flakescars,0%,,CoreFrag,Yes,,,SphericalOrCubic,,RiceGrainCore,,NoFH,180-270,5,,5.65,5.18,3.41,0.15,,No,YA
+12.09.15,P14,CL,CL3,211,Quartz,,Core>2flakescars,11-40%,,CompCore,Yes,,,NotSphericalFlat,,CoreReducedPiece,,NoFH,270-360,5,,6.61,7.36,2.62,0.14,,No,YA
+12.09.15,P14,CL,CL3,212,CrystallineQuartz,,Core>2flakescars,0%,,CompCore,Yes,,,NotSphericalFlat,,FlatBladeletCore,,NoFH,270-360,5,,6.65,5.93,2.15,0.09,,No,YA
+,,,,,,,,,,,,,,,,,,,,5,,,,,,,,
