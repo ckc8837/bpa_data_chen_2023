@@ -1,2 +1,2 @@
 # bpa_data_chen_2023
-summer bpa data
+Code and data for O14 and P13 and P14 Boomplaas Lithics. "bpa_flakes_raw.csv" contains all of the raw recorded flake attribute data for both complete flakes and retouched/utilized pieces, and "bpa_cores_raw.csv" contains all of the raw recorded core attribute data. In the "bpa_data_cleanup.qmd", I modify these dataframes for facilitated analysis (which later become files: "bpa_flakes.csv", "bpa_retouched_utilized.csv" and "bpa_cores.csv"). Run the analyses in "convergence_4.qmd". The "ARI.csv" file contains the data needed for calculating the Assemblage Reduction Intensity Index (Olszewski et al. 2011).
